@@ -1,0 +1,20 @@
+C:\Users\Alireza\source\repos\elipes\elipes\bin\Debug\elipes.exe.config
+C:\Users\Alireza\source\repos\elipes\elipes\bin\Debug\elipes.exe
+C:\Users\Alireza\source\repos\elipes\elipes\bin\Debug\elipes.pdb
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.Form1.resources
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.Properties.Resources.resources
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.exe
+C:\Users\Alireza\source\repos\elipes\elipes\obj\Debug\elipes.pdb
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\bin\Debug\elipes.exe.config
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\bin\Debug\elipes.exe
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\bin\Debug\elipes.pdb
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.Form1.resources
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.Properties.Resources.resources
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.csproj.GenerateResource.cache
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.csproj.CoreCompileInputs.cache
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.exe
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.pdb
+E:\my personal computer\programming\my projects\c sharp\elipes\elipes\obj\Debug\elipes.csprojAssemblyReference.cache
